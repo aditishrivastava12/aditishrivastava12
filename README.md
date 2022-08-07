@@ -3,7 +3,7 @@
   <head>
     <style>
       *{
-      background-color:pint;
+      background-color:pink;
       }
       h1{
       text-align:center;
@@ -18,13 +18,13 @@
   </head>
   <h1> ReadMe</h1>
   <p> My name is Aditi Shrivastava <p>
-  <ul>Hobbies
+  <ul><br><br>
     <li> coding </li>
     <li> singing</li>
     <li> painting</li>
   </ul>
-  <ul>Interests
-    <li> Web Development<li>
+  <ul>Interests<br><br>
+    <li> Web Development</li>
     <li>Marketing</li>
     <li>Business</li>
   </ul>
