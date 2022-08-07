@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @aditishrivastava12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-aditishrivastava12/aditishrivastava12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<DOCTYPE! html>
+<html>
+  <head>
+    <style>
+      *{
+      background-color:pint;
+      }
+      h1{
+      text-align:center;
+      text-decoration:underline;
+      }
+      p,ul,li{
+      color:blue;
+      font-size:15px;
+      font-family:cursive;
+      }
+    </style>
+  </head>
+  <h1> ReadMe</h1>
+  <p> My name is Aditi Shrivastava <p>
+  <ul>Hobbies
+    <li> coding </li>
+    <li> singing</li>
+    <li> painting</li>
+  </ul>
+  <ul>Interests
+    <li> Web Development<li>
+    <li>Marketing</li>
+    <li>Business</li>
+  </ul>
+  </body>
+  </html>
+      
+                           
+    
