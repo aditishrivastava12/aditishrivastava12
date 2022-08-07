@@ -18,7 +18,7 @@
   </head>
   <h1> ReadMe</h1>
   <p> My name is Aditi Shrivastava <p>
-  <ul><br><br>
+  <ul>Hobbies<br><br>
     <li> coding </li>
     <li> singing</li>
     <li> painting</li>
